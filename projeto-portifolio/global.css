@@ -27,4 +27,5 @@ img {
   text-transform: uppercase;
   line-height: 1;
   max-width: 4ch;
+  word-break: break-all;
 }
