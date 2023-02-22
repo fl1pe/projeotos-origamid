@@ -21,3 +21,10 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.subtitulo {
+  font-size: 9rem;
+  text-transform: uppercase;
+  line-height: 1;
+  max-width: 4ch;
+}
